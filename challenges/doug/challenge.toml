@@ -1,0 +1,9 @@
+slug = "Test Challenge"
+title = "Written in vi"
+author = "Doug"
+value = 5
+description = """What command saves and exits from vi?"""
+tags = [ "vi" ]
+files = []
+flag = "flag{:wq}"
+enabled = true 
