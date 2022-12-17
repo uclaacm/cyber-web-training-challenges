@@ -1,9 +1,0 @@
-slug = "challenge"
-title = "boom"
-author = "michelle"
-value = 7
-description = """what is my name???"""
-tags = [ "michelle" ]
-files = []
-flag = "flag{michelle}"
-enabled = true
