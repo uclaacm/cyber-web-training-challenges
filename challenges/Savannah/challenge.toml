@@ -1,9 +1,9 @@
 slug = "example"
 title = "Example"
-author = "Jerry"
-value = 10
-description = """What is the name of the president of ACM Cyber from 2019-2020?"""
-tags = [ "intro" ]
+author = "savannah"
+value = 98765425
+description = """What is Savannah's favorite animal?"""
+tags = [ "animal" ]
 files = []
-flag = "flag{sanjana_aka_death}"
+flag = "flag{cat}"
 enabled = true 
