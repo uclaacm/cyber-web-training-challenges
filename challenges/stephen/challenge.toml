@@ -1,0 +1,9 @@
+slug = "stephen"
+title = "Stephen"
+author = "stephen"
+value = 10
+description = """What is stephen's favorite color?"""
+tags = [ "color" ]
+files = []
+flag = "flag{blue}"
+enabled = true 
