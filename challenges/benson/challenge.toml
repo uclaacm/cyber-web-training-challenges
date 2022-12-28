@@ -1,0 +1,9 @@
+slug = "benson"
+title = "Benson's Fun Fact :)"
+author = "Benson"
+value = 1000
+description = """When did Benson become cool?"""
+tags = ["intro"]
+files = []
+flag = "flag{he_was_born_this_way_101010101010}"
+enabled = true 
