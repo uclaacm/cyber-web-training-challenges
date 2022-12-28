@@ -1,0 +1,9 @@
+slug = "jason"
+title = "Jason's Challenge"
+author = "Jason"
+value = 10
+description = """What does lobster stick to?"""
+tags = [ "meme" ]
+files = []
+flag = "flag{lobster_stick_to_magnet}"
+enabled = true 
