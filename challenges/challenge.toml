@@ -1,0 +1,9 @@
+slug = "example-challenge"
+title = "Tiktok Cat"
+author = "Savannah"
+value = 10
+description = """Meow meow meow meow?"""
+tags = ["intro"]
+files = []
+flag = "flag{meowmeowmeow}"
+enabled = true
