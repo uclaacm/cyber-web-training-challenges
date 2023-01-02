@@ -1,0 +1,9 @@
+slug = "bad-robots"
+title = "robots are bad"
+author = "Gary"
+value = 1
+description = """I don't like google"""
+tags = ["intro"]
+files = []
+flag = "flag{you_found_it!}"
+enabled = true
