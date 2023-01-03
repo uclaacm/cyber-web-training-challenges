@@ -1,0 +1,9 @@
+slug = "emily2"
+title = "emily2"
+author = "Emily"
+value = 10
+description = """app ????"""
+tags = [ "intro" ]
+files = []
+flag = "flag{flagflagflag}"
+enabled = true 
