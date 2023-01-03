@@ -1,9 +1,0 @@
-slug = "example"
-title = "Example"
-author = "savannah"
-value = 98765425
-description = """What is Savannah's favorite animal?"""
-tags = [ "animal" ]
-files = []
-flag = "flag{cat}"
-enabled = true 
