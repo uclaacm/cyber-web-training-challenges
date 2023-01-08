@@ -1,0 +1,9 @@
+slug = "intro-marius"
+title = "Marius Intro Challenge"
+author = "Marius"
+value = 100
+description = """BEST DINING HALL"""
+tags = ["intro"]
+files = []
+flag = "flag{BPLATE}"
+enabled = true
