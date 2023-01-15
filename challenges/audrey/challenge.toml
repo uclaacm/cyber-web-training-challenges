@@ -1,0 +1,9 @@
+slug = "lego-person"
+title = "Lego Person"
+author = "Audrey"
+value = 10
+description = """Legos?"""
+tags = ["intro"]
+files = []
+flag = "flag{lego_person_is_cool}"
+enabled = true
